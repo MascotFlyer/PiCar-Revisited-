@@ -56,4 +56,3 @@ have steered the car in a more analogue fashion but chose instead left:
 straight: right. This kept the software a lot simpler. However, I have not road
 tested it yet. I’ll probably need a tin hat and some shin guards!
 
-THIS GROTTY EDITOR? I HAD SOME NICE PHOTOS TO SHOW!
